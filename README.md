@@ -46,7 +46,7 @@ The greatest decrease in losses (date and amount) over the entire period
 
 
 
-As an example, your analysis should look similar to the one below:
+* As an example, your analysis should look similar to the one below:
 Financial Analysis
 ----------------------------
 Total Months: 86
@@ -87,7 +87,7 @@ The winner of the election based on popular vote.
 
 
 
-As an example, your analysis should look similar to the one below:
+* As an example, your analysis should look similar to the one below:
 Election Results
 -------------------------
 Total Votes: 3521001
