@@ -1,11 +1,11 @@
-##Python Homework - Py Me Up, Charlie
+**# Python Homework - Py Me Up, Charlie
 
-##Background
+## Background
 Well... you've made it!
 It's time to put away the Excel sheet and join the big leagues. Welcome to the world of programming with Python. In this homework assignment, you'll be using the concepts you've learned to complete the two Python Challenges, PyBank and PyPoll.
 Both of these challenges encompass a real-world situation where your newfound Python scripting skills can come in handy. These challenges are far from easy so expect some hard work ahead!
 
-Before You Begin
+### Before You Begin
 
 Create a new repository for this project called python-challenge. Do not add this homework to an existing repository.
 
@@ -21,7 +21,7 @@ An "analysis" folder that contains your text file that has the results from your
 
 Push the above changes to GitHub or GitLab.
 
-##PyBank
+## PyBank
 
 In this challenge, you are tasked with creating a Python script for analyzing the financial records of your company. You will give a set of financial data called budget_data.csv. The dataset is composed of two columns: Date and Profit/Losses. (Thankfully, your company has rather lax standards for accounting so the records are simple.)
 
@@ -60,7 +60,7 @@ In addition, your final script should both print the analysis to the terminal an
 
 
 
-##PyPoll
+## PyPoll
 
 
 
